@@ -1,7 +1,7 @@
 import 'package:app_ghi_chu/views/home_Screen.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-// import 'package:get/get.dart';
+import 'package:get/get.dart';
 
 class EditNoteScreen extends StatefulWidget {
   const EditNoteScreen({super.key});
