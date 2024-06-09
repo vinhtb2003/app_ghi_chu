@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473180474301",
+    "project_id": "noteapp-a212a",
+    "storage_bucket": "noteapp-a212a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473180474301:android:967712c0bc036b7713e0d4",
+        "android_client_info": {
+          "package_name": "com.example.app_ghi_chu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAr0klNSnJRITdiyD7tYfuspRc9ldXsho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
