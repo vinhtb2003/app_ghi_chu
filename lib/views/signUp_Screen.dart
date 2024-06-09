@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:app_ghi_chu/service/signUp_Service.dart';
 import 'package:get/get.dart';
 import 'login_Screen.dart';
-// import 'package:lottie/lottie.dart';
+import 'package:lottie/lottie.dart';
 
 class SignUpScreen extends StatefulWidget {
   const SignUpScreen({Key? key}) : super(key: key);
